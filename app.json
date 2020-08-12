@@ -1,0 +1,28 @@
+{
+	"expo": {
+		"name": "MyNk ToDo",
+		"slug": "MyNk-ToDo-App",
+		"privacy": "public",
+		"sdkVersion": "33.0.0",
+		
+    "android": {
+      "package": "com.mayank.md"
+    },
+		"platforms": ["ios", "android"],
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "cover",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["assets/*"],
+		"ios": {
+			"supportsTablet": true
+		}
+	}
+}
