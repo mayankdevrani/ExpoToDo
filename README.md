@@ -1,20 +1,7 @@
+## React Native & EXPO !
+
 ## Offline Todo List app
 
-**[Here is the link to the Demo](https://github.com/amandeepmittal/offline-todolist-app)**
-
-## Screens
-
-- Addding a new item
-
-  ![ss1](images/ss12.gif)
-
-- Categorize todo item whether it is pending or completed
-
-  ![ss2](images/ss13.gif)
-
-- Modal screen to add a new item
-
-  ![ss3](images/ss11.png)
 
 ## Tech Stack
 
